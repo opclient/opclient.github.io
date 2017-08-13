@@ -1,0 +1,48 @@
+
+#wb_header { background: transparent none repeat scroll left top; height: 150px; }
+#wb_main { background: transparent none repeat scroll left top; height: 564px; padding-bottom: 30px; }
+#wb_footer { background: transparent none repeat-x scroll left top; height: 74px; }
+body { background: #303030 url("5753381e830d50f5f19ed730f84b6370.jpg")/*tpa=http://neybots.ga/gallery_gen/5753381e830d50f5f19ed730f84b6370.jpg*/ repeat-x scroll center top; }
+.wb_sbg { background: transparent none repeat-x scroll left top; }
+body, .wb_sbg { min-width: 1200px; min-height: 788px; }
+.root { width: 1200px; height: 788px; overflow: visible; min-height: 788px; }
+#wb_element_instance0 { left: 0px; top: 96px; min-width: 1200px; width: 1200px; min-height: 40px; height: 40px; display: block; z-index: 397; }
+#wb_element_instance0 ul { background: transparent none repeat scroll right top; border: 1px none #000000; }
+#wb_element_instance0, #wb_element_instance0 ul { text-align: center; }
+#wb_element_instance0 ul ul { background: #242424 none repeat scroll right top; }
+#wb_element_instance0 li { margin: 0px 10px 0px 10px; }
+#wb_element_instance0 li a { text-transform: uppercase; border: 0px none #000000; padding: 10px 25px 10px 25px; font: normal normal 18px 'Roboto',sans-serif; text-decoration: none; color: #ffffff; line-height: 20px; background: transparent none no-repeat scroll center top; }
+#wb_element_instance0 li.over > a, #wb_element_instance0 li:focus > a { border: 0px none #000000; font: normal normal 18px 'Roboto',sans-serif; text-decoration: none; color: #ffff26; line-height: 20px; background: transparent none no-repeat scroll center top; }
+#wb_element_instance0 li.active > a { border: 0px none #000000; font: normal normal 18px 'Roboto',sans-serif; text-decoration: none; color: #ffff26; line-height: 20px; background: transparent none no-repeat scroll center center; }
+#wb_element_instance0:not(.collapse-expanded) .vmenu ul.open-left,#wb_element_instance0:not(.collapse-expanded) .hmenu ul.open-left { left: auto; right: 100%; }
+#wb_element_instance0:not(.collapse-expanded) .hmenu > li > ul.open-left { left: auto; right: 0; }
+#wb_element_instance1 { left: 0px; top: 80px; min-width: 1200px; width: 1200px; min-height: 70px; height: 70px; display: block; z-index: 388; }
+#wb_element_instance1 > div.wb_shp { background: #333333 none repeat scroll left top; border: 0px solid #C0C0C0; opacity: 1; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 1200px; height: 70px; }
+#wb_element_instance2 { left: 154px; top: 26px; min-width: 890px; width: 890px; min-height: 36px; height: 36px; display: block; z-index: 398; }
+#wb_element_instance3 { left: 0px; top: 25px; min-width: 360px; width: 360px; min-height: 24px; height: 24px; display: block; z-index: 379; }
+#wb_element_instance4 { left: 910px; top: 220px; min-width: 170px; width: 170px; min-height: 170px; height: 170px; display: block; z-index: 264; }
+#wb_element_instance4 .wb_button { width: 170px; height: 170px; font-family: 'Roboto Condensed',sans-serif; font-size: 20px; text-align: center; border: 8px solid #000000; border-radius: 100px; -webkit-border-radius: 100px; -moz-border-radius: 100px; color: #000000; font-style: normal; font-weight: bold; text-decoration: none; background: transparent none repeat scroll center center; }
+#wb_element_instance4 .wb_button:hover { color: #ffff26; font-style: normal; font-weight: bold; text-decoration: none; background: transparent none repeat scroll center center; }
+#wb_element_instance4 .wb_button:active { color: #ffffff; font-style: normal; font-weight: bold; text-decoration: none; background: transparent none repeat scroll center center; }
+#wb_element_instance5 { left: 10px; top: 260px; min-width: 270px; width: 270px; min-height: 48px; height: 48px; display: block; z-index: 272; }
+#wb_element_instance6 { left: 850px; top: 400px; min-width: 280px; width: 280px; min-height: 34px; height: 34px; display: block; z-index: 276; }
+#wb_element_instance7 { left: 850px; top: 440px; min-width: 280px; width: 280px; min-height: 68px; height: 68px; display: block; z-index: 278; }
+#wb_element_instance8 { left: 10px; top: 310px; min-width: 290px; width: 290px; min-height: 224px; height: 224px; display: block; z-index: 279; }
+#wb_element_instance9 { left: 1000px; top: 30px; min-width: 170px; width: 170px; min-height: 40px; height: 40px; display: block; z-index: 342; }
+#wb_element_instance10 { left: 0px; top: 1438px; display: block; z-index: 9000; }
+#wb_element_instance11 { left: 0px; top: 74px; display: block; z-index: 9999; }
+
+
+#wb_element_instance2 p:last-child { margin-bottom: 0; }
+#wb_element_instance3 p:last-child { margin-bottom: 0; }
+#wb_element_instance5 p:last-child { margin-bottom: 0; }
+#wb_element_instance6 p:last-child { margin-bottom: 0; }
+#wb_element_instance7 p:last-child { margin-bottom: 0; }
+#wb_element_instance8 p:last-child { margin-bottom: 0; }
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
